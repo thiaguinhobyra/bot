@@ -1,89 +1,3 @@
-# 🕷Venom Bot🕸
-
-[![npm version](https://img.shields.io/npm/v/venom-bot.svg?color=green)](https://www.npmjs.com/package/venom-bot)
-![node](https://img.shields.io/node/v/venom-bot)
-[![Downloads](https://img.shields.io/npm/dm/venom-bot.svg)](https://www.npmjs.com/package/venom-bot)
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/orkestral/venom.svg)](http://isitmaintained.com/project/orkestral/venom 'Average time to resolve an issue')
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/orkestral/venom.svg)](http://isitmaintained.com/project/orkestral/venom 'Percentage of issues still open')
-<a href="https://discord.gg/qCJ95FVbzR"><img src="https://img.shields.io/discord/772885202351292426?color=blueviolet&label=discord&style=flat" /></a>
-
-[![Build Status](https://img.shields.io/github/actions/workflow/status/orkestral/venom/build.yml?branch=master)](https://github.com/orkestral/venom/actions)
-[![Lint Status](https://img.shields.io/github/actions/workflow/status/orkestral/venom/lint.yml?branch=master&label=lint)](https://github.com/orkestral/venom/actions)
-[![release-it](https://img.shields.io/badge/%F0%9F%93%A6%F0%9F%9A%80-release--it-e10079.svg)](https://github.com/release-it/release-it)
-
-> Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.
-
-## Get started fast and easy! Official API!
-
-<p align="center">
-  <a href="https://docs.orkestral.io/venom">Full Documentation</a>
-</p>
-
-<p>
-It's a high-performance alternative API to whatzapp, you can send, text messages, files, images, videos and more.
-</p>
-<p>
-Remember, the API was developed on a platform called RESTful Web services, providing interoperability between computer systems on the Internet.
-</p>
-<p>
-It uses a set of well-defined operations that apply to all information resources: HTTP itself defines a small set of operations, the most important being POST, GET, PUT and DELETE.
-</p>
-<p>
-Use it in your favorite language like PHP, Python, C# and others. as long as your language is supported with the HTTP protocol, you will save time and money. you don't need to know how Venom works, we have the complete API documentation, in a professional way!
-</p>
-
-## Get our official API Venom ! Contact us!
-
-<a target="_blank" href="https://web.whatsapp.com/send?phone=5561985290357&text=I%20want%20access%20to%20API%20Venom" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
-
-## Venom group support on Telegram
-
-<a target="_blank" href="https://t.me/joinchat/G8wxNXidWBo1ZDYx" target="_blank"><img title="Telegram" height="100" width="375" src="https://user-images.githubusercontent.com/66584466/117182238-7d1d8980-adac-11eb-9a70-e32f90c3d4e5.png"></a>
-
-## Venom group support on Discord
-
-<a target="_blank" href="https://discord.gg/uBRjk6vecs" target="_blank"><img title="Discord" height="110" width="375" src="https://s2.glbimg.com/GUbCgnBxJERAmuaYcrjBzTXD5ws=/0x0:800x272/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/d/N/zJs579QOGxKVRxfPILCA/discord-app.png"></a>
-
-## Meet the Superchats
-
-<br>
-<a href='https://github.com/orkestral/superchats'><img src='https://github.com/orkestral/superchats/raw/main/img/superchats.png' height='60' alt='SuperChats' aria-label='https://github.com/orkestral/superchats' /></a>
-<br>
-<br>
-
-**SuperChats** is a premium library with unique features that control Whatsapp functions with socket.
-With Superchats you can build service bots, multiservice chats or any system that uses Whatsapp
-
-**Superchats** is a premium version of **Venom**, with exclusive features and support for companies and developers worldwide
-<br>
-<a href='https://github.com/orkestral/superchats'>https://github.com/orkestral/superchats</a>
-
-## Buy a license Superchats
-
-The value of the license is $50 monthly dollars, to acquire contact in whatsapp by clicking on the image below !!
-
-<a target="_blank" href="https://web.whatsapp.com/send?phone=5561985290357&text=I%20want%20to%20buy%201%20license" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
-
-## 🕷🕷 Functions Venom🕷🕷
-
-|                                                               |     |
-| ------------------------------------------------------------- | --- |
-| 🚻 Automatic QR Refresh                                       | ✔   |
-| 📁 Send **text, image, video, audio and docs**                | ✔   |
-| 👥 Get **contacts, chats, groups, group members, Block List** | ✔   |
-| 📞 Send contacts                                              | ✔   |
-| Send Buttons                                                  | ✔   |
-| Send stickers                                                 | ✔   |
-| Send stickers GIF                                             | ✔   |
-| Multiple Sessions                                             | ✔   |
-| ⏩ Forward Messages                                           | ✔   |
-| 📥 Receive message                                            | ✔   |
-| 👤 insert user section                                        | ✔   |
-| 📍 Send location!!                                            | ✔   |
-| 🕸🕸 **and much more**                                          | ✔   |
-
-Documentation at https://orkestral.github.io/venom/index.html
-
 ## Installation
 
 ```bash
@@ -102,7 +16,7 @@ Installing the current repository "you can download the beta version from the cu
 > npm i github:orkestral/venom
 ```
 
-## Getting started
+## Getting started Multidevice and Normal
 
 ```javascript
 // Supports ES6
@@ -111,7 +25,8 @@ const venom = require('venom-bot');
 
 venom
   .create({
-    session: 'session-name' //name of session
+    session: 'session-name', //name of session
+    multidevice: false // for version not multidevice use false.(default: true)
   })
   .then((client) => start(client))
   .catch((erro) => {
@@ -179,10 +94,10 @@ venom
     },
     // options
     {
-      browserPathExecutable: '', // browser executable path
+      multidevice: false, // for version not multidevice use false.(default: true)
       folderNameToken: 'tokens', //folder name when saving tokens
       mkdirFolderToken: '', //folder directory tokens, just inside the venom folder, example:  { mkdirFolderToken: '/node_modules', } //will save the tokens folder in the node_modules directory
-      headless: 'new', // you should no longer use boolean false or true, now use false, true or 'new' learn more https://developer.chrome.com/articles/new-headless/
+      headless: true, // Headless chrome
       devtools: false, // Open devtools by default
       debug: false, // Opens a debug session
       logQR: true, // Logs QR automatically in terminal
@@ -199,7 +114,15 @@ venom
       userProxy: '', // Proxy login username
       userPass: '' // Proxy password
     },
-
+    // BrowserSessionToken
+    // To receive the client's token use the function await clinet.getSessionTokenBrowser()
+    {
+      WABrowserId: '"UnXjH....."',
+      WASecretBundle:
+        '{"key":"+i/nRgWJ....","encKey":"kGdMR5t....","macKey":"+i/nRgW...."}',
+      WAToken1: '"0i8...."',
+      WAToken2: '"1@lPpzwC...."'
+    },
     // BrowserInstance
     (browser, waPage) => {
       console.log('Browser PID:', browser.process().pid);
@@ -219,7 +142,7 @@ venom
 Gets the return if the session is `isLogged` or `notLogged` or `browserClose` or `qrReadSuccess` or `qrReadFail` or `autocloseCalled` or `desconnectedMobile` or `deleteToken` or `chatsAvailable` or `deviceNotConnected` or `serverWssNotConnected` or `noOpenBrowser` or `initBrowser` or `openBrowser` or `connectBrowserWs` or `initWhatsapp` or `erroPageWhatsapp` or `successPageWhatsapp` or `waitForLogin` or `waitChat` or `successChat` or `Create session wss return "serverClose" case server for close`
 
 | Status                  | Condition                                                                                                                                                      |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `isLogged`              | When the user is already logged in to the browser                                                                                                              |
 | `notLogged`             | When the user is not connected to the browser, it is necessary to scan the QR code through the cell phone in the option WhatsApp Web                           |
 | `browserClose`          | If the browser is closed this parameter is returned                                                                                                            |
@@ -228,7 +151,7 @@ Gets the return if the session is `isLogged` or `notLogged` or `browserClose` or
 | `autocloseCalled`       | The browser was closed using the autoClose command                                                                                                             |
 | `desconnectedMobile`    | Client has desconnected in to mobile                                                                                                                           |
 | `serverClose`           | Client has desconnected in to wss                                                                                                                              |
-| `deleteToken`           | If you pass true within the function                                                                                                                           |
+| `deleteToken`           | If you pass true within the function `client.getSessionTokenBrowser(true)`                                                                                     |
 | `chatsAvailable`        | When Venom is connected to the chat list                                                                                                                       |
 | `deviceNotConnected`    | Chat not available because the phone is disconnected `(Trying to connect to the phone)`                                                                        |
 | `serverWssNotConnected` | The address wss was not found!                                                                                                                                 |
@@ -241,17 +164,23 @@ Gets the return if the session is `isLogged` or `notLogged` or `browserClose` or
 | `successPageWhatsapp`   | Page Whatsapp successfully accessed                                                                                                                            |
 | `waitForLogin`          | Waiting for login verification!                                                                                                                                |
 | `waitChat`              | Waiting for the chat to load                                                                                                                                   |
-| `successChat`           | Chat successfully loaded!                                                                                                                                      |
-
+| `successChat`           | Chat successfully loaded!                                                                                                                                      | 
 ```javascript
 const venom = require('venom-bot');
 venom
-  .create('sessionName', undefined, (statusSession, session) => {
-    console.log('Status Session: ', statusSession);
-    //return isLogged || notLogged || browserClose || qrReadSuccess || qrReadFail || autocloseCalled || desconnectedMobile || deleteToken || chatsAvailable || deviceNotConnected || serverWssNotConnected || noOpenBrowser || initBrowser || openBrowser || connectBrowserWs || initWhatsapp || erroPageWhatsapp || successPageWhatsapp || waitForLogin || waitChat || successChat
-    //Create session wss return "serverClose" case server for close
-    console.log('Session name: ', session);
-  })
+  .create(
+    'sessionName',
+    undefined,
+    (statusSession, session) => {
+      console.log('Status Session: ', statusSession);
+      //return isLogged || notLogged || browserClose || qrReadSuccess || qrReadFail || autocloseCalled || desconnectedMobile || deleteToken || chatsAvailable || deviceNotConnected || serverWssNotConnected || noOpenBrowser || initBrowser || openBrowser || connectBrowserWs || initWhatsapp || erroPageWhatsapp || successPageWhatsapp || waitForLogin || waitChat || successChat
+      //Create session wss return "serverClose" case server for close
+      console.log('Session name: ', session);
+    },
+    {
+      multidevice: false // for version not multidevice use false.(default: true)
+    }
+  )
   .then((client) => {
     start(client);
   })
@@ -340,28 +269,8 @@ available can be found in [here](/src/api/layers) and
 
 ```javascript
 
-// Send Poll
-const poll = {
-  name: 'new poll',
-  options: [
-    {
-      name: 'option 1'
-    },
-    {
-      name: 'option 2'
-    }
-  ],
-  selectableOptionsCount: 1
-};
-await client.sendPollCreation('000000000000@c.us', poll)
-.then((result) => {
-    console.log('Result: ', result); //return object success
-})
-.catch((erro) => {
-    console.error('Error when sending: ', erro); //return object error
-});
-
 // Send List menu
+//This function does not work for Bussines contacts
 const list = [
     {
       title: "Pasta",
@@ -676,6 +585,10 @@ const contacts = await client.getAllContacts();
 // "noMute" List all chats without silence
 const listMute = await client.getListMute('all');
 
+// Retrieve the browser session token
+// if you want to delete the token file -> const browserSessionToken = await client.getSessionTokenBrowser(true);
+const browserSessionToken = await client.getSessionTokenBrowser();
+
 // Calls your list of blocked contacts (returns an array)
 const getBlockList = await client.getBlockList();
 
@@ -701,7 +614,7 @@ const status = await client.getStatus('000000000000@c.us');
 const user = await client.getNumberProfile('000000000000@c.us');
 
 // Retrieve all unread message
-const messages = await client.getUnreadMessages();
+const messages = await client.getAllUnreadMessages();
 
 // Retrieve profile fic (as url)
 const url = await client.getProfilePicFromServer('000000000000@c.us');
@@ -710,14 +623,12 @@ const url = await client.getProfilePicFromServer('000000000000@c.us');
 const chat = await client.getChat('000000000000@c.us');
 
 // Check if the number exists
-const chat = await client
-  .checkNumberStatus('000000000000@c.us')
-  .then((result) => {
+const chat = await client.checkNumberStatus('000000000000@c.us')
+.then((result) => {
     console.log('Result: ', result); //return object success
-  })
-  .catch((erro) => {
+}).catch((erro) => {
     console.error('Error when sending: ', erro); //return object error
-  });
+});
 ```
 
 ## Group Functions
@@ -789,11 +700,13 @@ await client.setProfilePic('path/to/image.jpg');
 
 // Get device info
 await client.getHostDevice();
+
 ```
 
 ## Device Functions
 
 ```javascript
+
 // Disconnect from service
 await client.logout();
 
@@ -962,6 +875,7 @@ await client.blockContact('000000000000@c.us');
 
 // Unlocks contacts (returns true if it works)
 await client.unblockContact('000000000000@c.us');
+
 ```
 
 ## Misc
@@ -1042,7 +956,6 @@ Receives the time in milliseconds to countdown until paired.
 
 Use "autoClose: 0 | false" to disable auto closing.
 
-### Debugging
 
 ## Development
 
@@ -1072,13 +985,3 @@ To build the entire project just run
 ```bash
 > npm run build
 ```
-
-## Maintainers
-
-Maintainers are needed, I cannot keep with all the updates by myself. If you are
-interested please open a Pull Request.
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to
-discuss what you would like to change.
